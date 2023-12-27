@@ -1,0 +1,99 @@
+{"One-Colume": {
+	"prefix": "FLUID-1",
+	"One-Colume": {
+		"prefix": "FLUID-1",
+		"body": [
+		  "<table",
+		  "                cellspacing=\"0\"",
+		  "                cellpadding=\"0\"",
+		  "                border=\"0\"",
+		  "                role=\"presentation\"",
+		  "                width=\"100%\"",
+		  "                style=\"max-width: 600px; text-align: center\"",
+		  "              >",
+		  "                <tr>",
+		  "                  <td width=\"100%\" style=\"background-color: aqua\">2-Colume</td>",
+		  "                </tr>",
+		  "              </table>"
+		],
+		"description": "One-Colume"
+	  },
+	  "Two-Colume": {
+		"prefix": "FLUID-2",
+		"body": [
+		  " <table",
+		  "                cellspacing=\"0\"",
+		  "                cellpadding=\"0\"",
+		  "                border=\"0\"",
+		  "                role=\"presentation\"",
+		  "                width=\"100%\"",
+		  "                style=\"max-width: 600px; text-align: center\"",
+		  "              >",
+		  "                <tr>",
+		  "                  <td width=\"50%\" style=\"background-color: aqua\">2-Colume</td>",
+		  "                  <td width=\"50%\" style=\"background-color: pink\">2-Colume</td>",
+		  "                </tr>",
+		  "              </table>"
+		],
+		"description": "Two-Colume"
+	  },
+	  "Tree-Colume": {
+		"prefix": "FLUID-3",
+		"body": [
+		  "              <table",
+		  "                cellspacing=\"0\"",
+		  "                cellpadding=\"0\"",
+		  "                border=\"0\"",
+		  "                role=\"presentation\"",
+		  "                width=\"100%\"",
+		  "                style=\"max-width: 600px; text-align: center\"",
+		  "              >",
+		  "                <tr>",
+		  "                  <td width=\"33%\" style=\"background-color: aqua\">3-Colume</td>",
+		  "                  <td width=\"33%\" style=\"background-color: pink\">3-Colume</td>",
+		  "                  <td width=\"33%\" style=\"background-color: tomato\">3-Colume</td>",
+		  "                </tr>",
+		  "              </table>"
+		],
+		"description": "Tree-Colume"
+	  },
+
+	  "Four-Colume": {
+		"prefix": "FLUID-4",
+		"body": [
+		  " <table",
+		  "                cellspacing=\"0\"",
+		  "                cellpadding=\"0\"",
+		  "                border=\"0\"",
+		  "                role=\"presentation\"",
+		  "                width=\"100%\"",
+		  "                style=\"max-width: 600px; text-align: center\"",
+		  "              >",
+		  "                <tr>",
+		  "                  <td width=\"25%\" style=\"background-color: aqua\">4-Colume</td>",
+		  "                  <td width=\"25%\" style=\"background-color: pink\">4-Colume</td>",
+		  "                  <td width=\"25%\" style=\"background-color: tomato\">4-Colume</td>",
+		  "                  <td width=\"25%\" style=\"background-color: grey\">4-Colume</td>",
+		  "                </tr>",
+		  "              </table>",
+		  ""
+		],
+		"description": "Four-Colume"
+	  },
+	// Place your Email Template workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+}

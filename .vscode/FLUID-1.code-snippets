@@ -1,0 +1,11 @@
+"One-Colume": {
+    "prefix": "FLUID-1",
+    "body": [
+      " <table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\" width=\"100%\" style=\"max-width: 600px; text-align:center;\" >",
+      "                                <tr>",
+      "                                    <td width=\"100%\" style=\"background-color:aqua;\"> 1-Colume </td>",
+      "                                </tr>",
+      "                            </table>"
+    ],
+    "description": "One-Colume"
+  }
